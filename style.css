@@ -1,0 +1,88 @@
+
+body{
+    margin: 5vh;
+    background-image: url(tlo.png);
+    background-size: 100vw 143vh;
+}
+#footer{
+    height: 10vh;
+    background-color: rgba(92, 92, 92, 0.88);
+}
+#logo_img{
+    float: left;
+    width: 8vh;
+    height: 8vh;
+    margin-left: 1vh;
+    margin-top: 1vh;
+}
+#blok_g{
+    background-color:  rgba(15, 15, 15, 0.65);
+    height: 123vh;
+    text-align: center;
+}
+#nazwa_firmy{
+    margin: 0vh;
+    margin-left: 2vh;
+    float: left;
+    font-size: 8vh;
+    font-family: fantasy;
+    color: black;
+    letter-spacing: 0.5vh;
+    height: 10vh;
+    
+}
+#blok_l_txt1{
+    color: white;
+    font-size: 5vh;
+    margin: 0vh;
+    margin-left: 1vh;
+    margin-top: 4vh;
+    text-align: center;
+    width: 70vh;
+    height: 6vh;
+}
+#blok_l_txt2{
+    color: white;
+    font-size: 5vh;
+    margin: 0vh;
+    margin-left: 10vh;
+    margin-top: 4vh;
+    text-align: center;
+    width: 70vh;
+    height: 6vh;
+}
+#blok_p_txt{
+    color: white;
+    font-size: 3vh;
+    margin: 0vh;
+    margin-left: 1vh;
+    padding-top: 2vh;
+    
+}
+.przyklady{
+    height: 30vh;
+    width: 40vh;
+    margin: 3vh;
+}
+p{
+    font-size: 3vh;
+}
+ul{
+    margin-left:5vh;
+    margin-top: 5vh;
+    padding-left: 10vh;
+}
+li{
+    text-align: left;
+    font-size: 5vh;
+    color: white;
+}
+.dane_h2{
+    color: white;
+    font-size: 4vh;
+    margin-left: 8vh;
+    text-align: left;
+}
+#blok_l{float: left;width: 50%;
+}
+#blok_p{float: left;width: 50%;}
